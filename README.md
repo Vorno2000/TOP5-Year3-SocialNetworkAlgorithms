@@ -3,6 +3,6 @@ Using an n x n association table, associations between any 2 people can be calcu
 
 This project was created using Netbeans 8.2 and should work if loaded straight from the download.
 
-Source files are located in /src or refer to screenshots for insight.
+Source files are located in /src or refer to screenshots for insight. I have added Screenshots of the brief for this project to clear up any confusion.
 
 Apologies for bad file and folder naming
