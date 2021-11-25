@@ -1,2 +1,8 @@
-# TOP5-Year3-SocialNetworkAlgorithms
-Grade: 48/50 | This is a complicated project and one of the hardest (if not THE hardest) from university. Its a social network comprised of a n x n association table. From this we can calculate social strengths between 2 people, a clique within the table, and a cluster.
+# Overview
+Using an n x n association table, associations between any 2 people can be calculated dependent on the strengths of the connections inbetween those people. Cliques can also be found where 3 or 4 people could be considered to be in a clique if they all have connections to eachother. Clustering works by utilizing a technique called single-linkage clustering and a dendrogram can be formed from this where the strongest link is always added together to make new pairs.
+
+This project was created using Netbeans 8.2 and should work if loaded straight from the download.
+
+Source files are located in /src or refer to screenshots for insight.
+
+Apologies for bad file and folder naming
